@@ -98,7 +98,7 @@ You can cast arguments into integers by using int() (you can assume that all arg
 
 **8. ByteCode -> Python #3**
 
-Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+	Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
 
 **9. Fast alphabet**
 
